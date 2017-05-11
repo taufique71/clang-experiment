@@ -1,2 +1,3 @@
 # clang-experiment
-My experiments with clang
+
+Experiments with Clang AST traversal
